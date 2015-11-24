@@ -1,0 +1,14 @@
+﻿/* Place custom styles below */
+div.instructions{
+    padding-bottom: 2em;
+}
+div.main{
+    padding-bottom: .5em;
+}
+.key{
+    font-size:12pt;
+    font-weight:bold;
+}
+#tbBingMapsKey{
+    width:500px;
+}

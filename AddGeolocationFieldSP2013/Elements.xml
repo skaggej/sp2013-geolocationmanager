@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="RootModule">
+    <File Path="Screenshots\GeolocationDemo1_2014-11-02_17-28-51.png" Url="Screenshots/GeolocationDemo1_2014-11-02_17-28-51.png" ReplaceContent="TRUE" />
+    <File Path="Screenshots\SPWebGeolocationManager_2014-11-02_16-37-43.png" Url="Screenshots/SPWebGeolocationManager_2014-11-02_16-37-43.png" ReplaceContent="TRUE" />
+  </Module>
+</Elements>
